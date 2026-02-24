@@ -5,7 +5,7 @@
  * 
  * @example
  * ```typescript
- * import { UptimeKumaClient } from 'uptime-kuma-ts';
+ * import { UptimeKumaClient } from 'uptime-kuma-api';
  * 
  * const client = new UptimeKumaClient({
  *   url: 'http://localhost:3001',

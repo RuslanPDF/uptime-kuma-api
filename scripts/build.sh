@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Build script for uptime-kuma-ts
+# Build script for uptime-kuma-api
 
 set -e
 

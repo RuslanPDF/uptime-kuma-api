@@ -4,7 +4,7 @@
 
 set -e
 
-echo "Setting up development environment for uptime-kuma-ts..."
+echo "Setting up development environment for uptime-kuma-api..."
 echo ""
 
 # Check Node.js version
