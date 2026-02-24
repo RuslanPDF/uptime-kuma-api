@@ -1,5 +1,5 @@
 {
-  "name": "uptime-kuma-api",
+  "name": "@ruslanpdf/uptime-kuma-api",
   "version": "1.0.0",
   "description": "TypeScript client library for Uptime Kuma API",
   "main": "dist/index.js",
