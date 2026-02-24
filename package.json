@@ -26,7 +26,7 @@
     "real-time"
   ],
   "author": "RuslanPDF ruslanmuratbekov2004@gmail.com",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "homepage": "https://github.com/RuslanPDF/uptime-kuma-api",
   "bugs": {
     "url": "https://github.com/RuslanPDF/uptime-kuma-api"
